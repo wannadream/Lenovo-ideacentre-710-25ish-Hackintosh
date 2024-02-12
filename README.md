@@ -1,6 +1,6 @@
 # Lenovo-ideacentre-710-25ish-Hackintosh
 
-![alt text](https://github.com/wannadream/Lenovo-ideacentre-710-25ish-Hackintosh/blob/main/screenshot_oc.png?raw=true)
+![alt text](https://github.com/wannadream/Lenovo-ideacentre-710-25ish-Hackintosh/blob/main/screenshot.png?raw=true)
 
 ## Lenovo ideacentre 710 Specs:
 
